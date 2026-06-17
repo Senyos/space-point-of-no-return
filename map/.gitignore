@@ -1,0 +1,11 @@
+!.gitignore
+!*.svg
+
+*.html
+*.js
+*.png
+*.webp
+*.jpg
+
+!MilkyWayTop_Gaia_2100.jpg
+!mleko_put.jpg

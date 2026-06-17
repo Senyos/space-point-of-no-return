@@ -1,0 +1,32 @@
+= ВПИ Space: Point of No Return: Главный репозиторий
+:stylesheet: ./asciidoctor-skins/css/dark.css
+// dark.css
+:sectnums!:
+:figure-caption!:
+:table-caption!:
+:imagesdir: ./images
+// :figure-caption: Рисунок
+:title-page:
+:author: Teflon
+:revnumber: 1
+:revdate: 16.06.2026
+:version-label: Редакция
+:toc-title: СОДЕРЖАНИЕ
+//:title-logo-image: {imagesdir}/
+:toc:
+:toclevels: 3
+:last-update-label: Последнее обновление
+
+== ЛИЦЕНЗИЯ
+
+----
+include::./LICENSE[]
+----
+
+=== Описание лицензии
+
+Лицензия, краткими словами, означает, что все ресурсы в этом репозитории, не касающихся `asciidoctor-skins` запривачены для чужих лиц. Использование содержимого этого репозитория без разрешения будет считаться нарушением `ЛИЦЕНЗИИ`
+
+== Содержимое репозитория
+
+Репозиторий содержит исходный `SVG` файл карты и `ADOC` файл механик и описания ВПИ как такового, а также горсть вспомогательных файлов.

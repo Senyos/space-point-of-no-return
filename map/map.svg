@@ -7,7 +7,7 @@
    viewBox="0 0 555.62499 555.625"
    version="1.1"
    id="svg1"
-   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
    sodipodi:docname="map.svg"
    inkscape:export-filename="map.webp"
    inkscape:export-xdpi="96"
@@ -27,15 +27,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="0.35355339"
-     inkscape:cx="1173.7973"
-     inkscape:cy="1752.2106"
-     inkscape:window-width="1592"
-     inkscape:window-height="962"
-     inkscape:window-x="0"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="1778.3736"
+     inkscape:cy="1800.2939"
+     inkscape:window-width="1187"
+     inkscape:window-height="1000"
+     inkscape:window-x="-7"
      inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="layer2" />
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer5" />
   <defs
      id="defs1">
     <linearGradient
@@ -106,6 +106,17 @@
        d="m 353.2234,150.51283 c 0,0 6.73521,-6.82873 15.6219,-2.05797 8.88672,4.77076 5.98683,14.59291 4.86431,15.34127 -1.12252,0.74835 -3.74176,4.77076 -8.98025,4.95785 -5.23848,0.18709 -11.59949,-3.3676 -11.13178,-6.45456 0.46773,-3.08696 -7.20291,-3.74177 -0.37418,-11.78659 z"
        id="path3"
        inkscape:label="Бебакийское Национальное Содружество" />
+    <path
+       style="opacity:0.5;fill:#c8bfe7;fill-opacity:1;fill-rule:evenodd;stroke:#3a2a6f;stroke-width:2;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;font-variation-settings:normal;vector-effect:none;stroke-linecap:butt;stop-color:#000000;stop-opacity:1"
+       d="m 133.02004,346.8624 c 0,0 49.76559,0.18708 14.40583,40.97242 -35.35976,40.78531 -34.6114,-4.49014 -34.42431,-11.03823 0.18708,-6.54812 -44.340019,-44.34002 20.01848,-29.93419 z"
+       id="path8"
+       inkscape:label="Геллоумирская конфедерация" />
+    <path
+       style="font-variation-settings:normal;opacity:0.5;vector-effect:none;fill:#051b55;fill-opacity:1;fill-rule:evenodd;stroke:#092e90;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       d="m 221.32396,338.26979 c 0,0 5.68854,-5.29167 11.70781,-3.04271 6.01927,2.24896 2.11666,7.54062 -3.10886,13.49375 -5.22552,5.95312 -5.35781,4.82864 -9.98802,3.9026 -4.63021,-0.92604 -10.51908,-3.04365 -11.44323,-3.50573 -0.79374,-0.39687 -8.79739,-2.51354 -8.99583,-3.57187 -0.36244,-1.93297 -1.78594,-7.9375 3.30729,-8.59896 5.09323,-0.66146 9.06198,7.87135 18.52084,1.32292 z"
+       id="path10"
+       sodipodi:nodetypes="cssssssc"
+       inkscape:label="Некрополис" />
   </g>
   <g
      inkscape:label="stars"
@@ -182,7 +193,7 @@
        inkscape:label="star1" />
     <path
        sodipodi:type="star"
-       style="fill:#4e4e4e;fill-opacity:1;stroke:#ffffff;stroke-width:3.60263;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#051b55;fill-opacity:1;stroke:#ffffff;stroke-width:3.60263;stroke-dasharray:none;stroke-opacity:1"
        id="path31"
        inkscape:flatsided="true"
        sodipodi:sides="6"
@@ -3820,7 +3831,7 @@
        inkscape:label="star1" />
     <path
        sodipodi:type="star"
-       style="fill:#4e4e4e;fill-opacity:1;stroke:#ffffff;stroke-width:3.60263;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#c8bfe7;fill-opacity:1;stroke:#ffffff;stroke-width:3.60263;stroke-dasharray:none;stroke-opacity:1"
        id="path251"
        inkscape:flatsided="true"
        sodipodi:sides="6"
@@ -4639,6 +4650,34 @@
          x="364.20493"
          y="141.43747"
          id="tspan6">Содружество</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:11.2889px;line-height:normal;font-family:'Iosevka Nerd Font Mono';-inkscape-font-specification:'Iosevka Nerd Font Mono Heavy';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:center;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;opacity:0.65;vector-effect:none;fill:#c8bfe7;fill-opacity:1;fill-rule:evenodd;stroke:#17102c;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       x="123.10435"
+       y="344.80441"
+       id="text9"
+       inkscape:label="Геллоумирская конфедерация"><tspan
+         sodipodi:role="line"
+         id="tspan9"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:11.2889px;line-height:normal;font-family:'Iosevka Nerd Font Mono';-inkscape-font-specification:'Iosevka Nerd Font Mono Heavy';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:center;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;vector-effect:none;fill:#c8bfe7;fill-opacity:1;stroke:#17102c;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         x="123.10435"
+         y="344.80441">Геллоумирская</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:11.2889px;line-height:normal;font-family:'Iosevka Nerd Font Mono';-inkscape-font-specification:'Iosevka Nerd Font Mono Heavy';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:center;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;vector-effect:none;fill:#c8bfe7;fill-opacity:1;stroke:#17102c;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         x="123.10435"
+         y="358.91553"
+         id="tspan10">конфедерация</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:11.2889px;line-height:normal;font-family:'Iosevka Nerd Font Mono';-inkscape-font-specification:'Iosevka Nerd Font Mono Heavy';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:center;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;opacity:0.65;vector-effect:none;fill:#051b55;fill-opacity:1;fill-rule:evenodd;stroke:#245cf1;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       x="221.51299"
+       y="358.27478"
+       id="text11"><tspan
+         sodipodi:role="line"
+         id="tspan11"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:11.2889px;line-height:normal;font-family:'Iosevka Nerd Font Mono';-inkscape-font-specification:'Iosevka Nerd Font Mono Heavy';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:center;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:normal;vector-effect:none;fill:#051b55;fill-opacity:1;stroke:#245cf1;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         x="221.51299"
+         y="358.27478">Некрополис</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -4715,6 +4754,17 @@
          id="tspan7"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:11.2889px;font-family:'Iosevka Nerd Font Mono';-inkscape-font-specification:'Iosevka Nerd Font Mono Light';writing-mode:lr-tb;direction:ltr;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
          x="351.33371"
-         y="553.40826">Обновление: 16:00 17.06.2026</tspan></text>
+         y="553.40826">Обновление: 18:10 18.06.2026</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:11.2889px;line-height:0;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono Bold';text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;opacity:0.041;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:5;stroke-dasharray:1, 1;stroke-dashoffset:0.4;-inkscape-stroke:none"
+       x="1.4646103"
+       y="552.24036"
+       id="text8"><tspan
+         sodipodi:role="line"
+         id="tspan8"
+         style="font-size:11.2889px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-opacity:1"
+         x="1.4646103"
+         y="552.24036">Teflon</tspan></text>
   </g>
 </svg>

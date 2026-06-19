@@ -7,7 +7,7 @@
    viewBox="0 0 555.62499 555.625"
    version="1.1"
    id="svg1"
-   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
    sodipodi:docname="map.svg"
    inkscape:export-filename="map.webp"
    inkscape:export-xdpi="96"
@@ -27,15 +27,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="1778.3736"
-     inkscape:cy="1800.2939"
-     inkscape:window-width="1187"
-     inkscape:window-height="1000"
-     inkscape:window-x="-7"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="1301.0765"
+     inkscape:cy="1664.5294"
+     inkscape:window-width="1592"
+     inkscape:window-height="962"
+     inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="layer5" />
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2" />
   <defs
      id="defs1">
     <linearGradient
@@ -110,13 +110,19 @@
        style="opacity:0.5;fill:#c8bfe7;fill-opacity:1;fill-rule:evenodd;stroke:#3a2a6f;stroke-width:2;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;font-variation-settings:normal;vector-effect:none;stroke-linecap:butt;stop-color:#000000;stop-opacity:1"
        d="m 133.02004,346.8624 c 0,0 49.76559,0.18708 14.40583,40.97242 -35.35976,40.78531 -34.6114,-4.49014 -34.42431,-11.03823 0.18708,-6.54812 -44.340019,-44.34002 20.01848,-29.93419 z"
        id="path8"
-       inkscape:label="Геллоумирская конфедерация" />
+       inkscape:label="Геллоумирская Конфедерация" />
     <path
        style="font-variation-settings:normal;opacity:0.5;vector-effect:none;fill:#051b55;fill-opacity:1;fill-rule:evenodd;stroke:#092e90;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="m 221.32396,338.26979 c 0,0 5.68854,-5.29167 11.70781,-3.04271 6.01927,2.24896 2.11666,7.54062 -3.10886,13.49375 -5.22552,5.95312 -5.35781,4.82864 -9.98802,3.9026 -4.63021,-0.92604 -10.51908,-3.04365 -11.44323,-3.50573 -0.79374,-0.39687 -8.79739,-2.51354 -8.99583,-3.57187 -0.36244,-1.93297 -1.78594,-7.9375 3.30729,-8.59896 5.09323,-0.66146 9.06198,7.87135 18.52084,1.32292 z"
        id="path10"
        sodipodi:nodetypes="cssssssc"
        inkscape:label="Некрополис" />
+    <path
+       style="opacity:0.5;fill:#421ce3;fill-opacity:1;stroke:#281188;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
+       d="m 337.22733,412.06279 c 0,0 -9.44798,-0.65481 -12.25431,-7.95126 -2.80633,-7.29646 -8.13837,-19.55077 -11.41241,-23.10545 -3.27406,-3.5547 -10.75761,-12.8156 -3.64823,-15.15419 7.10936,-2.3386 19.36366,0.37417 33.86304,-7.85773 14.49938,-8.2319 -1.30961,-14.31227 -0.0935,-19.73784 1.21608,-5.42557 0.74835,-7.57711 2.61925,-8.04481 1.87086,-0.46774 8.2319,-2.52572 9.63506,-1.49673 1.40317,1.02899 4.77076,-5.33201 5.70619,-7.95125 0.93544,-2.61925 5.8933,-8.13838 11.78658,-4.30306 5.8933,3.83533 13.93812,1.77734 16.18319,-0.28061 2.24507,-2.05798 18.42823,0.4677 19.92492,4.86428 1.49672,4.39658 20.29912,16.83801 4.20952,32.92761 -16.08963,16.08963 -13.37686,23.47963 -11.88013,31.99217 1.49669,8.51255 12.53414,9.04322 13.00265,12.90911 0.44855,3.70118 1.30963,19.17659 -16.18317,23.38608 -18.96654,4.56414 -18.99768,-4.02245 -37.69835,-4.0224 -10.38345,2e-5 -4.49014,-5.23848 -23.76027,-6.17392 z"
+       id="path4"
+       sodipodi:nodetypes="csssssssssssssssssc"
+       inkscape:label="Торговая Федерация" />
   </g>
   <g
      inkscape:label="stars"
@@ -1196,7 +1202,7 @@
        inkscape:label="star1" />
     <path
        sodipodi:type="star"
-       style="fill:#4e4e4e;fill-opacity:1;stroke:#ffffff;stroke-width:3.60263;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#421ce3;fill-opacity:1;stroke:#ffffff;stroke-width:3.60263;stroke-dasharray:none;stroke-opacity:1"
        id="path90"
        inkscape:flatsided="true"
        sodipodi:sides="6"
@@ -1213,7 +1219,7 @@
        inkscape:label="star1" />
     <path
        sodipodi:type="star"
-       style="fill:#4e4e4e;fill-opacity:1;stroke:#ffffff;stroke-width:3.60263;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#421ce3;fill-opacity:1;stroke:#ffffff;stroke-width:3.60263;stroke-dasharray:none;stroke-opacity:1"
        id="path91"
        inkscape:flatsided="true"
        sodipodi:sides="6"
@@ -1230,7 +1236,7 @@
        inkscape:label="star1" />
     <path
        sodipodi:type="star"
-       style="fill:#4e4e4e;fill-opacity:1;stroke:#ffffff;stroke-width:3.60263;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#421ce3;fill-opacity:1;stroke:#ffffff;stroke-width:3.60263;stroke-dasharray:none;stroke-opacity:1"
        id="path92"
        inkscape:flatsided="true"
        sodipodi:sides="6"
@@ -1944,7 +1950,7 @@
        inkscape:label="star1" />
     <path
        sodipodi:type="star"
-       style="fill:#4e4e4e;fill-opacity:1;stroke:#ffffff;stroke-width:3.60263;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#421ce3;fill-opacity:1;stroke:#ffffff;stroke-width:3.60263;stroke-dasharray:none;stroke-opacity:1"
        id="path140"
        inkscape:flatsided="true"
        sodipodi:sides="6"
@@ -1978,7 +1984,7 @@
        inkscape:label="star1" />
     <path
        sodipodi:type="star"
-       style="fill:#4e4e4e;fill-opacity:1;stroke:#ffffff;stroke-width:3.60263;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#421ce3;fill-opacity:1;stroke:#ffffff;stroke-width:3.60263;stroke-dasharray:none;stroke-opacity:1"
        id="path142"
        inkscape:flatsided="true"
        sodipodi:sides="6"
@@ -4171,7 +4177,7 @@
        inkscape:label="star1" />
     <path
        sodipodi:type="star"
-       style="fill:#4e4e4e;fill-opacity:1;stroke:#ffffff;stroke-width:3.60263;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#421ce3;fill-opacity:1;stroke:#ffffff;stroke-width:3.60263;stroke-dasharray:none;stroke-opacity:1"
        id="path271"
        inkscape:flatsided="true"
        sodipodi:sides="6"
@@ -4188,7 +4194,7 @@
        inkscape:label="star1" />
     <path
        sodipodi:type="star"
-       style="fill:#4e4e4e;fill-opacity:1;stroke:#ffffff;stroke-width:3.60263;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#421ce3;fill-opacity:1;stroke:#ffffff;stroke-width:3.60263;stroke-dasharray:none;stroke-opacity:1"
        id="path272"
        inkscape:flatsided="true"
        sodipodi:sides="6"
@@ -4222,7 +4228,7 @@
        inkscape:label="star1" />
     <path
        sodipodi:type="star"
-       style="fill:#4e4e4e;fill-opacity:1;stroke:#ffffff;stroke-width:3.60263;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#421ce3;fill-opacity:1;stroke:#ffffff;stroke-width:3.60263;stroke-dasharray:none;stroke-opacity:1"
        id="path274"
        inkscape:flatsided="true"
        sodipodi:sides="6"
@@ -4239,7 +4245,7 @@
        inkscape:label="star1" />
     <path
        sodipodi:type="star"
-       style="fill:#4e4e4e;fill-opacity:1;stroke:#ffffff;stroke-width:3.60263;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#421ce3;fill-opacity:1;stroke:#ffffff;stroke-width:3.60263;stroke-dasharray:none;stroke-opacity:1"
        id="path275"
        inkscape:flatsided="true"
        sodipodi:sides="6"
@@ -4666,18 +4672,30 @@
          style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:11.2889px;line-height:normal;font-family:'Iosevka Nerd Font Mono';-inkscape-font-specification:'Iosevka Nerd Font Mono Heavy';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:center;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;vector-effect:none;fill:#c8bfe7;fill-opacity:1;stroke:#17102c;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
          x="123.10435"
          y="358.91553"
-         id="tspan10">конфедерация</tspan></text>
+         id="tspan10">Конфедерация</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:11.2889px;line-height:normal;font-family:'Iosevka Nerd Font Mono';-inkscape-font-specification:'Iosevka Nerd Font Mono Heavy';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:center;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;opacity:0.65;vector-effect:none;fill:#051b55;fill-opacity:1;fill-rule:evenodd;stroke:#245cf1;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        x="221.51299"
        y="358.27478"
-       id="text11"><tspan
+       id="text11"
+       inkscape:label="Некрополис"><tspan
          sodipodi:role="line"
          id="tspan11"
          style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:11.2889px;line-height:normal;font-family:'Iosevka Nerd Font Mono';-inkscape-font-specification:'Iosevka Nerd Font Mono Heavy';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:center;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:normal;vector-effect:none;fill:#051b55;fill-opacity:1;stroke:#245cf1;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
          x="221.51299"
          y="358.27478">Некрополис</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:11.2889px;line-height:normal;font-family:'Iosevka Nerd Font Mono';-inkscape-font-specification:'Iosevka Nerd Font Mono Heavy';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:center;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:normal;opacity:0.65;vector-effect:none;fill:#421ce3;fill-opacity:1;stroke:#080319;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       x="325.69885"
+       y="359.91312"
+       id="text12"><tspan
+         sodipodi:role="line"
+         id="tspan12"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:11.2889px;line-height:normal;font-family:'Iosevka Nerd Font Mono';-inkscape-font-specification:'Iosevka Nerd Font Mono Heavy';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:center;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:normal;vector-effect:none;fill:#421ce3;fill-opacity:1;stroke:#080319;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         x="325.69885"
+         y="359.91312">Торговая Федерация</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -4705,7 +4723,8 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:'Iosevka Nerd Font Mono';-inkscape-font-specification:'Iosevka Nerd Font Mono';writing-mode:lr-tb;direction:ltr;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
        x="351.10211"
        y="478.36667"
-       id="text295"><tspan
+       id="text295"
+       inkscape:label="Name"><tspan
          sodipodi:role="line"
          id="tspan295"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.2889px;font-family:'Iosevka Nerd Font Mono';-inkscape-font-specification:'Iosevka Nerd Font Mono Bold';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2"
@@ -4716,7 +4735,8 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:'Iosevka Nerd Font Mono';-inkscape-font-specification:'Iosevka Nerd Font Mono';writing-mode:lr-tb;direction:ltr;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
        x="368.36273"
        y="500.41104"
-       id="text295-4"><tspan
+       id="text295-4"
+       inkscape:label="Звездная система"><tspan
          sodipodi:role="line"
          id="tspan295-9"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:11.2889px;font-family:'Iosevka Nerd Font Mono';-inkscape-font-specification:'Iosevka Nerd Font Mono Light';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2"
@@ -4726,7 +4746,8 @@
        style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
        d="M 351.49896,482.59999 H 549.01041"
        id="path296"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:label="line" />
     <path
        sodipodi:type="star"
        style="fill:#4e4e4e;fill-opacity:1;stroke:#ffffff;stroke-width:3.60263;stroke-dasharray:none;stroke-opacity:1"
@@ -4749,21 +4770,23 @@
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:11.2889px;font-family:'Iosevka Nerd Font Mono';-inkscape-font-specification:'Iosevka Nerd Font Mono Light';writing-mode:lr-tb;direction:ltr;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
        x="351.33371"
        y="553.40826"
-       id="text7"><tspan
+       id="text7"
+       inkscape:label="Date"><tspan
          sodipodi:role="line"
          id="tspan7"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:11.2889px;font-family:'Iosevka Nerd Font Mono';-inkscape-font-specification:'Iosevka Nerd Font Mono Light';writing-mode:lr-tb;direction:ltr;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
          x="351.33371"
-         y="553.40826">Обновление: 18:10 18.06.2026</tspan></text>
+         y="553.40826">Обновление: 18:20 19.06.2026</tspan></text>
     <text
        xml:space="preserve"
-       style="font-weight:bold;font-size:11.2889px;line-height:0;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono Bold';text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;opacity:0.041;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:5;stroke-dasharray:1, 1;stroke-dashoffset:0.4;-inkscape-stroke:none"
+       style="font-weight:bold;font-size:11.2889px;line-height:0;font-family:'Iosevka Nerd Font Mono';-inkscape-font-specification:'Iosevka Nerd Font Mono Bold';text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;opacity:0.1;fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:5;stroke-dasharray:none;stroke-dashoffset:0.4;-inkscape-stroke:none;font-style:normal;font-variant:normal;font-stretch:normal;fill-opacity:1;stroke-opacity:1"
        x="1.4646103"
        y="552.24036"
-       id="text8"><tspan
+       id="text8"
+       inkscape:label="Teflon"><tspan
          sodipodi:role="line"
          id="tspan8"
-         style="font-size:11.2889px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-opacity:1"
+         style="font-size:11.2889px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-opacity:1;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Iosevka Nerd Font Mono';-inkscape-font-specification:'Iosevka Nerd Font Mono Bold';writing-mode:lr-tb;direction:ltr;stroke-dasharray:none"
          x="1.4646103"
          y="552.24036">Teflon</tspan></text>
   </g>

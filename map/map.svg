@@ -7,7 +7,7 @@
    viewBox="0 0 555.62499 555.625"
    version="1.1"
    id="svg1"
-   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
    sodipodi:docname="map.svg"
    inkscape:export-filename="map.webp"
    inkscape:export-xdpi="96"
@@ -27,15 +27,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="0.5"
-     inkscape:cx="1063"
-     inkscape:cy="1008"
-     inkscape:window-width="1600"
-     inkscape:window-height="1000"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="1005.5058"
+     inkscape:cy="1387.3435"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer4" />
+     inkscape:current-layer="layer5" />
   <defs
      id="defs1">
     <linearGradient
@@ -96,12 +96,6 @@
        id="path5"
        inkscape:label="Некроны" />
     <path
-       style="opacity:0.5;fill:#ff0c00;fill-opacity:1;stroke:#8d120c;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
-       d="m 269.08124,338.73281 c 0,0 4.96095,-5.95313 9.32657,-7.40833 4.36563,-1.45521 8.38978,1.15842 9.26041,2.44739 1.05371,1.56003 -0.66145,5.02708 -5.82083,8.46667 -5.15937,3.43958 -7.73906,3.77031 -9.78958,2.38125 -2.05052,-1.38906 -3.30729,-2.91042 -2.97657,-5.88698 z"
-       id="path2"
-       sodipodi:nodetypes="cssssc"
-       inkscape:label="Галактическая Республика Рейкон" />
-    <path
        style="opacity:0.5;fill:#99d9ea;fill-opacity:1;stroke:#1a6a7f;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
        d="m 353.2234,150.51283 c 0,0 6.73521,-6.82873 15.6219,-2.05797 8.88672,4.77076 5.98683,14.59291 4.86431,15.34127 -1.12252,0.74835 -3.74176,4.77076 -8.98025,4.95785 -5.23848,0.18709 -11.59949,-3.3676 -11.13178,-6.45456 0.46773,-3.08696 -7.20291,-3.74177 -0.37418,-11.78659 z"
        id="path3"
@@ -128,6 +122,17 @@
        d="m 202.14931,181.19537 c 0,0 -5.61266,0.65481 -7.39001,9.07381 -1.77734,8.41898 4.95785,13.75101 6.92228,13.00266 1.96443,-0.74836 12.34786,-2.05798 18.33469,-9.35444 5.98684,-7.29645 5.79975,-7.95127 5.0514,-10.00924 -0.74836,-2.05798 -10.10279,-0.74835 -13.2833,-2.5257 -3.18051,-1.77734 -7.67063,-1.30962 -9.63506,-0.18709 z"
        id="path6"
        inkscape:label="Первая Вермейлская Империя" />
+    <path
+       style="opacity:0.5;fill:#ff0c00;fill-opacity:1;fill-rule:evenodd;stroke:#8d120c;stroke-width:2;-inkscape-stroke:none;font-variation-settings:normal;vector-effect:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+       d="m 273.18229,335.22708 c 0,0 2.38125,-4.10104 4.7625,-4.23333 2.38125,-0.1323 7.54062,0.52916 10.31875,0.13229 2.77812,-0.39688 -1.5875,-10.31875 1.98437,-11.1125 3.57188,-0.79375 8.06979,3.57187 9.78959,3.30729 1.71979,-0.26458 8.46666,-4.36563 9.92187,-1.05833 1.45521,3.30729 -1.05833,7.67291 -3.43958,8.73125 -2.38125,1.05833 -6.48229,3.96875 -6.21771,6.61458 0.26458,2.64583 3.43958,6.21771 1.71979,8.73125 -1.71979,2.51354 -7.27604,0.26458 -10.05417,2.38125 -2.77812,2.11667 -5.68854,8.06979 -8.99583,9.65729 -3.30729,1.5875 -11.24479,3.57188 -14.94896,1.32292 -3.70416,-2.24896 -13.49375,0.52916 -16.53645,-0.66146 -3.04271,-1.19063 -2.38125,-7.54063 -0.79375,-9.78958 1.5875,-2.24896 6.74687,-10.18646 9.3927,-11.2448 2.64584,-1.05833 10.18646,-0.13229 13.09688,-2.77812 z"
+       id="path1"
+       inkscape:label="Галактическая Республика Рейкон" />
+    <path
+       style="font-variation-settings:normal;opacity:0.5;vector-effect:none;fill:#fe964a;fill-opacity:1;fill-rule:evenodd;stroke:#984101;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       d="m -320.94898,-149.81239 c 0,0 -4.10104,-4.23333 -7.80521,-1.71979 -3.70417,2.51354 -1.32292,11.50937 0.26458,13.36146 1.5875,1.85208 6.87917,1.32291 8.99584,0.66146 2.11666,-0.66146 10.18646,-6.08542 -1.45521,-12.30313 z"
+       id="path2"
+       transform="translate(561.58752,420.08425)"
+       inkscape:label="Империя Феникса" />
   </g>
   <g
      inkscape:label="stars"
@@ -510,7 +515,7 @@
        inkscape:label="star1" />
     <path
        sodipodi:type="star"
-       style="fill:#4e4e4e;fill-opacity:1;stroke:#ffffff;stroke-width:3.60263;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#fe964a;fill-opacity:1;stroke:#ffffff;stroke-width:3.60263;stroke-dasharray:none;stroke-opacity:1"
        id="path49"
        inkscape:flatsided="true"
        sodipodi:sides="6"
@@ -1105,7 +1110,7 @@
        inkscape:label="star1" />
     <path
        sodipodi:type="star"
-       style="fill:#4e4e4e;fill-opacity:1;stroke:#ffffff;stroke-width:3.60263;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#ff0c00;fill-opacity:1;stroke:#ffffff;stroke-width:3.60263;stroke-dasharray:none;stroke-opacity:1"
        id="path84"
        inkscape:flatsided="true"
        sodipodi:sides="6"
@@ -1122,7 +1127,7 @@
        inkscape:label="star1" />
     <path
        sodipodi:type="star"
-       style="fill:#4e4e4e;fill-opacity:1;stroke:#ffffff;stroke-width:3.60263;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#ff0c00;fill-opacity:1;stroke:#ffffff;stroke-width:3.60263;stroke-dasharray:none;stroke-opacity:1"
        id="path85"
        inkscape:flatsided="true"
        sodipodi:sides="6"
@@ -1139,7 +1144,7 @@
        inkscape:label="star1" />
     <path
        sodipodi:type="star"
-       style="fill:#4e4e4e;fill-opacity:1;stroke:#ffffff;stroke-width:3.60263;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#ff0c00;fill-opacity:1;stroke:#ffffff;stroke-width:3.60263;stroke-dasharray:none;stroke-opacity:1"
        id="path86"
        inkscape:flatsided="true"
        sodipodi:sides="6"
@@ -1836,7 +1841,7 @@
        inkscape:label="star1" />
     <path
        sodipodi:type="star"
-       style="fill:#4e4e4e;fill-opacity:1;stroke:#ffffff;stroke-width:3.60263;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#ff0c00;fill-opacity:1;stroke:#ffffff;stroke-width:3.60263;stroke-dasharray:none;stroke-opacity:1"
        id="path133"
        inkscape:flatsided="true"
        sodipodi:sides="6"
@@ -4724,6 +4729,23 @@
          x="166.5089"
          y="202.96304"
          id="tspan15">Империя</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:11.2889px;line-height:normal;font-family:'Iosevka Nerd Font Mono';-inkscape-font-specification:'Iosevka Nerd Font Mono Heavy';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:center;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;opacity:0.65;vector-effect:none;fill:#fe964a;fill-opacity:1;fill-rule:evenodd;stroke:#984101;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       x="233.36249"
+       y="251.35417"
+       id="text16"
+       inkscape:label="Империя Феникса"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:11.2889px;line-height:normal;font-family:'Iosevka Nerd Font Mono';-inkscape-font-specification:'Iosevka Nerd Font Mono Heavy';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:center;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;vector-effect:none;fill:#fe964a;fill-opacity:1;stroke:#984101;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         x="233.36249"
+         y="251.35417"
+         id="tspan17">Империя</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:11.2889px;line-height:normal;font-family:'Iosevka Nerd Font Mono';-inkscape-font-specification:'Iosevka Nerd Font Mono Heavy';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:center;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;vector-effect:none;fill:#fe964a;fill-opacity:1;stroke:#984101;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         x="233.36249"
+         y="265.4653"
+         id="tspan18">Феникса</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -4804,7 +4826,7 @@
          id="tspan7"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:11.2889px;font-family:'Iosevka Nerd Font Mono';-inkscape-font-specification:'Iosevka Nerd Font Mono Light';writing-mode:lr-tb;direction:ltr;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
          x="351.33371"
-         y="553.40826">Обновление: 21:10 20.06.2026</tspan></text>
+         y="553.40826">Обновление: 23:10 22.06.2026</tspan></text>
     <text
        xml:space="preserve"
        style="font-weight:bold;font-size:11.2889px;line-height:0;font-family:'Iosevka Nerd Font Mono';-inkscape-font-specification:'Iosevka Nerd Font Mono Bold';text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;opacity:0.1;fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:5;stroke-dasharray:none;stroke-dashoffset:0.4;-inkscape-stroke:none;font-style:normal;font-variant:normal;font-stretch:normal;fill-opacity:1;stroke-opacity:1"
